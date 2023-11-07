@@ -2,11 +2,13 @@
 This modification draws the circle of radar range on the 3D world.
 
 Player Mode: circle of yours and your allies are visible  
-Observer Mode: All players' radar range are available
+Observer Mode: All players' radar ranges are available
 
 The circle becomes visible when the Alt-key is pressed or the radar consumable is in use.  
 It also starts to blink when the radar is about to end. (less than 7s~. blinks every second.)  
-The reload, active duration of the radar take all the upgrades and skills into account and is always precise.
+The reload, and active duration of the radar take all the upgrades and skills into account and is always precise.
+
+The mod is officially checked and approved by WG, thus is safe to use.
 
 # Overview
 ![image](https://github.com/AndrewTaro/ThreeDimentionalRadarPublic/assets/36262823/7ee6fb5e-e7a6-4d30-9cba-6b954ecfde7c)
